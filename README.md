@@ -1,3 +1,3 @@
 # SuperSmashMarines
 
-Developed with Unreal Engine 4
+GameJam Berlin 13/03/2020.
